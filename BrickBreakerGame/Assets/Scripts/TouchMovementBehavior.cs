@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharacterMovementBehavior : MonoBehaviour
+public class TouchMovementBehavior : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Writing a line alongside 
     void Start()
     {
         
