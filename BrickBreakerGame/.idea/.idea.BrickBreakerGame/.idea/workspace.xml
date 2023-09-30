@@ -8,6 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallMovementBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../GameDevUno/GameRepo/Assets/Tools/Draggable/DraggableBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Match/Match/Assets/Scripts/DraggableBehavior.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -69,6 +70,7 @@
       <updated>1693624399149</updated>
       <workItem from="1693624407207" duration="1371000" />
       <workItem from="1695870126316" duration="2925000" />
+      <workItem from="1695966835638" duration="1190000" />
     </task>
     <servers />
   </component>
